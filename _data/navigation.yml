@@ -17,6 +17,9 @@ main:
   - title: "Group"
     url: /group/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /publications/
 

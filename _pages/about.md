@@ -27,8 +27,3 @@ future gravitational-wave observatories.
 - Compact-object binaries and multi-messenger astronomy
 - Gravitational-wave data analysis and parameter estimation
 - Statistical and computational methods for gravitational-wave astronomy
-
-## Links
-
-- [School profile at HUST](http://faculty.hust.edu.cn/wangyan11/zh_CN/index.htm)
-- [ORCID](https://orcid.org/0000-0001-8990-5700)
