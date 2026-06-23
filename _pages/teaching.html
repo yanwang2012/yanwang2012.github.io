@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+This page will collect teaching information and course materials. It can include
+course descriptions, lecture notes, reading lists, assignments, and links to
+public teaching resources.
+
+## Courses and Materials
+
+Course entries can be added in the `_teaching/` directory.
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
