@@ -14,13 +14,12 @@ and [School of Physics](http://phys.hust.edu.cn),
 focuses on relativistic astrophysics, gravitational-wave astrophysics, and
 gravitational-wave data analysis.
 
-I lead the Gravitational-Wave Physics Group, which currently includes about ten
-graduate students. Nearly ten graduate students and postdoctoral researchers
-have completed their research training in the group.
-
-Our research connects compact-object astrophysics, gravitational-wave source
-modeling, statistical inference, and data-analysis methods for current and
-future gravitational-wave observatories.
+I lead the Gravitational-Wave Physics Group, a research group of about ten
+graduate students, with nearly ten graduate students and postdoctoral
+researchers having completed their training in the group. Our work connects
+compact-object astrophysics, gravitational-wave source modeling, statistical
+inference, and data-analysis methods for current and future gravitational-wave
+observatories.
 
 ## Research Interests
 
