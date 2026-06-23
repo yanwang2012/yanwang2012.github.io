@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor at the School of Physics, Huazhong University of Science and
-Technology (华中科技大学物理学院), Wuhan, China. My research focuses on
-relativistic astrophysics, gravitational-wave astrophysics, and
+I am a professor at the [National Gravitational Laboratory](https://ngl.hust.edu.cn)
+and [School of Physics](http://phys.hust.edu.cn),
+[Huazhong University of Science and Technology](https://www.hust.edu.cn)
+(华中科技大学国家精密重力测量科学中心和物理学院), Wuhan, China. My research
+focuses on relativistic astrophysics, gravitational-wave astrophysics, and
 gravitational-wave data analysis.
 
 I lead the Gravitational-Wave Physics Group, which currently includes about ten
