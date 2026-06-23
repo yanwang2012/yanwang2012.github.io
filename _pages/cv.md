@@ -5,24 +5,21 @@ permalink: /cv/
 author_profile: true
 ---
 
-## Yan Wang (王炎)
-
-Professor, School of Physics, Huazhong University of Science and Technology
-(华中科技大学物理学院), Wuhan, China.
 
 ## Employment
 
-- **Professor**, School of Physics, Huazhong University of Science and Technology, China, 2021.11-present
+- **Professor**, National Gravitation Laboratory, Huazhong University of Science and Technology, China, 2025-present
+- **Professor**, Department of Astronomy, School of Physics, Huazhong University of Science and Technology, China, 2021-present
 - **Associate Professor**, School of Physics, Huazhong University of Science and Technology, China, 2014.12-2021.10
-- **Postdoctoral Research Associate**, University of Texas at Brownsville, USA, 2011.09-2014.11
 - **Visiting Scholar**, TAPIR, California Institute of Technology, USA, 2017.07-2017.08
 - **Visiting Scholar**, Australian International Gravitational Research Centre and School of Physics, University of Western Australia, Australia, 2015.07-2015.09
+- **Postdoctoral Research Associate**, University of Texas at Brownsville, USA, 2011-2014
 
 ## Education
 
-- **Ph.D. in Astrophysics**, Nanjing University, China, 2011.06
-- **M.Sc. in Physics**, University of Texas at Brownsville, USA, 2009.05
-- **B.Sc. in Astronomy**, Nanjing University, China, 2006.06
+- **Ph.D. in Astrophysics**, Nanjing University, China, 2011
+- **M.Sc. in Physics**, University of Texas at Brownsville, USA, 2009
+- **B.Sc. in Astronomy**, Nanjing University, China, 2006
 
 ## Publications and Projects
 
