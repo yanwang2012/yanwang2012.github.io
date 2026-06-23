@@ -10,17 +10,25 @@ author_profile: true
 Professor, School of Physics, Huazhong University of Science and Technology
 (华中科技大学物理学院), Wuhan, China.
 
-Email: [ywang12@hust.edu.cn](mailto:ywang12@hust.edu.cn)  
-ORCID: [0000-0001-8990-5700](https://orcid.org/0000-0001-8990-5700)  
-HUST profile: [faculty.hust.edu.cn/wangyan11](http://faculty.hust.edu.cn/wangyan11/zh_CN/index.htm)
+I work on relativistic astrophysics, gravitational-wave astrophysics, and
+gravitational-wave data analysis. I lead the Gravitational-Wave Physics Group,
+whose research connects compact-object astrophysics, gravitational-wave source
+modeling, statistical inference, and data-analysis methods for current and
+future gravitational-wave observatories.
 
-## Research Interests
+My current work emphasizes gravitational-wave source modeling and data analysis
+for the millihertz band relevant to space-based gravitational-wave detectors
+and the nanohertz band relevant to pulsar timing arrays. The group develops
+analysis methods and software for binary black hole systems across different
+mass scales, as well as related compact binary systems involving black holes,
+neutron stars, and white dwarfs.
 
-- Relativistic astrophysics
-- Gravitational-wave astrophysics
-- Gravitational-wave source modeling and data analysis
-- Compact binary systems, including black holes, neutron stars, and white dwarfs
-- Data-analysis methods for space-based gravitational-wave detectors and pulsar timing arrays
+## Research Areas
+
+- **Relativistic Astrophysics:** compact objects, strong gravity, and binary systems relevant to gravitational-wave observations.
+- **Gravitational-Wave Astrophysics:** astrophysical interpretation of compact-object binaries and multi-messenger sources.
+- **Gravitational-Wave Data Analysis:** signal modeling, detection, parameter estimation, and statistical inference.
+- **Future Observatories:** science cases and data-analysis methods for current and next-generation ground-based and space-based detectors.
 
 ## Employment
 
@@ -35,16 +43,6 @@ HUST profile: [faculty.hust.edu.cn/wangyan11](http://faculty.hust.edu.cn/wangyan
 - **Ph.D. in Astrophysics**, Nanjing University, China, 2011.06
 - **M.Sc. in Physics**, University of Texas at Brownsville, USA, 2009.05
 - **B.Sc. in Astronomy**, Nanjing University, China, 2006.06
-
-## Research Profile
-
-Prof. Wang works on relativistic astrophysics and gravitational-wave detection,
-with emphasis on gravitational-wave source modeling and data analysis for the
-millihertz band relevant to space-based gravitational-wave detectors and the
-nanohertz band relevant to pulsar timing arrays. His group develops analysis
-methods and software for binary black hole systems across different mass scales,
-as well as related compact binary systems involving black holes, neutron stars,
-and white dwarfs.
 
 ## Publications and Projects
 
