@@ -10,7 +10,7 @@ author_profile: true
 
 - **Professor**, National Gravitation Laboratory, Huazhong University of Science and Technology, China, 2025-present
 - **Professor**, Department of Astronomy, School of Physics, Huazhong University of Science and Technology, China, 2021-present
-- **Associate Professor**, School of Physics, Huazhong University of Science and Technology, China, 2014.12-2021.10
+- **Associate Professor**, School of Physics, Huazhong University of Science and Technology, China, 2014-2021
 - **Visiting Scholar**, TAPIR, California Institute of Technology, USA, 2017.07-2017.08
 - **Visiting Scholar**, Australian International Gravitational Research Centre and School of Physics, University of Western Australia, Australia, 2015.07-2015.09
 - **Postdoctoral Research Associate**, University of Texas at Brownsville, USA, 2011-2014
