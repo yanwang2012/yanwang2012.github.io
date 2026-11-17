@@ -21,7 +21,7 @@ and TianQin. We develop methods for signal searches, noise mitigation, and
 parameter estimation, and study black holes, neutron stars, and white dwarfs
 through gravitational-wave and multimessenger observations.
 
-I lead the [Gravitational-Wave Physics Group]({{ '/group/' | relative_url }}),
+I lead the [Gravitational-Wave Astrophysics Group]({{ '/group/' | relative_url }}),
 which currently includes {{ site.data.group_members.phd_students.size }} PhD
 students and {{ site.data.group_members.masters_students.size }} master's
 students. Our alumni include {{ site.data.group_members.graduate_alumni.size }}
@@ -29,6 +29,10 @@ former graduate students and {{ site.data.group_members.former_postdocs.size }}
 former postdoctoral researchers. The group brings together theoretical modeling,
 statistical inference, and scientific computing, with international joint
 doctoral training as part of our research activities.
+
+I work closely with researchers across China and maintain long-standing
+collaborations and regular scientific exchanges with colleagues in the United
+States, Germany, Australia, and other countries.
 
 ## Research Interests
 

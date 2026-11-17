@@ -21,10 +21,13 @@ multiple-source resolution, and red-noise mitigation, with an emphasis on
 scalable analyses for large pulsar arrays. Related studies examine stochastic
 backgrounds and their anisotropy.
 
-Representative papers:
+Recent papers:
+
+- [Scalable continuous-wave detection with red-noise suppression and pulsar selection (2026)](https://doi.org/10.1103/1yqv-39pd)
+
+Earlier related work:
 
 - [Iterative time-domain resolution of multiple PTA sources (2022)](https://doi.org/10.1103/PhysRevD.106.023016)
-- [Scalable continuous-wave detection with red-noise suppression and pulsar selection (2026)](https://doi.org/10.1103/1yqv-39pd)
 
 ## Space-Based Gravitational-Wave Data Analysis
 
@@ -36,7 +39,7 @@ and parameter estimation. We also investigate environmental noise and the
 impact of unresolved Galactic binaries on stochastic-background inference.
 These studies connect instrument-level modeling with astrophysical analysis.
 
-Representative papers:
+Recent papers:
 
 - [Hierarchical searches for stellar-mass binary black holes in noisy space-based detector data (2025)](https://doi.org/10.1103/PhysRevD.111.043026)
 - [An analysis pipeline for extremely large-mass-ratio inspirals (2026)](https://doi.org/10.1103/3hx6-7zyb)
@@ -52,7 +55,7 @@ emission from spinning neutron stars in binaries. Waveform studies of spin
 coupling and orbital eccentricity help connect the observed signals to binary
 dynamics and compact-object properties.
 
-Representative papers:
+Recent papers:
 
 - [Inferring double-neutron-star binary parameters with dual-line gravitational-wave detection (2024)](https://doi.org/10.1103/PhysRevD.109.043033)
 - [Detecting eclipsing double white dwarfs with electromagnetic and gravitational waves (2025)](https://doi.org/10.1093/mnras/stae2696)
@@ -66,10 +69,13 @@ and compact-binary gravitational waveforms in alternative theories of gravity.
 These studies provide a theoretical basis for interpreting precision
 observations and investigating the nature of gravity.
 
-Representative papers:
+Recent papers:
+
+- [Compact-binary waveforms in Brans-Dicke theory in an expanding Universe (2023)](https://doi.org/10.1103/PhysRevD.108.024006)
+
+Earlier related work:
 
 - [Strong-field effects on emission-line profiles from Kerr black holes and warped disks (2012)](https://doi.org/10.1088/0004-637X/744/2/186)
-- [Compact-binary waveforms in Brans-Dicke theory in an expanding Universe (2023)](https://doi.org/10.1103/PhysRevD.108.024006)
 
 ## Group and Publications
 

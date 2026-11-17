@@ -7,7 +7,7 @@ author_profile: true
 <link rel="stylesheet" href="{{ '/assets/css/group.css' | relative_url }}">
 
 <div class="group-page">
-  <p class="group-intro">The <strong>Gravitational-Wave Physics Group</strong> is led by <a href="{{ '/' | relative_url }}">Prof. Yan Wang</a> at the <a href="https://ngl.hust.edu.cn">National Gravitational Laboratory</a> and <a href="http://phys.hust.edu.cn">School of Physics</a>, <a href="https://www.hust.edu.cn">Huazhong University of Science and Technology</a> (HUST).</p>
+  <p class="group-intro">The <strong>Gravitational-Wave Astrophysics Group</strong> is led by <a href="{{ '/' | relative_url }}">Prof. Yan Wang</a> at the <a href="https://ngl.hust.edu.cn">National Gravitational Laboratory</a> and <a href="http://phys.hust.edu.cn">School of Physics</a>, <a href="https://www.hust.edu.cn">Huazhong University of Science and Technology</a> (HUST).</p>
 
   <nav class="group-index" aria-label="Group sections">
     <a href="#current-students">Current students</a>
