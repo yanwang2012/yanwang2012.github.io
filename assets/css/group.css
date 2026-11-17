@@ -19,12 +19,15 @@ html[data-theme="dark"] .group-page { --group-muted: #d1d4d7; --group-link: #73c
 .group-member-header { display: flex; justify-content: space-between; align-items: baseline; gap: 6px 20px; flex-wrap: wrap; }
 .group-page .group-member-name { margin: 0; padding: 0; border: 0; font-size: 0.95em; font-weight: 600; line-height: 1.5; overflow-wrap: anywhere; }
 .group-member-chinese { white-space: nowrap; }
+.group-member-studies { max-width: 100%; text-align: right; }
 .group-page .group-member-timeline { margin: 0; font-size: 0.78em; line-height: 1.6; color: var(--group-muted); }
+.group-page .group-member-prior { margin: 3px 0 0; font-size: 0.75em; line-height: 1.6; color: var(--group-muted); overflow-wrap: anywhere; }
 .group-page .group-member-research, .group-page .group-member-role, .group-page .group-member-affiliation { margin: 5px 0 0; font-size: 0.8em; line-height: 1.6; overflow-wrap: anywhere; }
 .group-page .group-member-note { margin: 6px 0 0; font-size: 0.78em; line-height: 1.65; color: var(--group-muted); overflow-wrap: anywhere; }
 
 @media (max-width: 520px) {
   .group-member-header { display: block; }
+  .group-member-studies { text-align: left; }
   .group-page .group-member-timeline { margin-top: 3px; }
   .group-page section > h2 { font-size: 1.05em; }
 }

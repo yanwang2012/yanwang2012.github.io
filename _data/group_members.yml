@@ -1,15 +1,18 @@
 # 已审核的公开信息。维护成员时编辑本文件，列表顺序即网页显示顺序。
 # 入学与转博时间为September，毕业时间为June；联合培养使用实际月份。
 # homepage为个人主页；affiliation_url为工作单位官网。不要加入私人信息或内部审核批注。
+# masters_started仅记录硕转博前的硕士阶段入学时间，不表示另获硕士学位。
 phd_students:
   - name: Yao Fu
     chinese_name: 付瑶
     timeline: PhD studies since September 2022
+    masters_started: September 2020
     research_area: Space-Based Gravitational-Wave Data Analysis
     joint_training: University of Western Australia, November 2024 to November 2025
   - name: Xuan Tao
     chinese_name: 陶轩
     timeline: PhD studies since September 2023
+    masters_started: September 2021
     research_area: PTA Data Analysis
     joint_training: AEI Hannover, August 2025 to March 2027 (scheduled completion)
   - name: Fanyun He
@@ -20,6 +23,7 @@ phd_students:
     chinese_name: 吴昊坤
     timeline: PhD studies since September 2024
     research_area: Space-Based Gravitational-Wave Data Analysis
+    masters_started: September 2023
   - name: Hanyu You
     chinese_name: 游涵宇
     timeline: PhD studies since September 2025
@@ -32,6 +36,7 @@ phd_students:
   - name: Haocheng Hu
     chinese_name: 胡灏成
     timeline: PhD studies since September 2026
+    masters_started: September 2023
     research_area: Space-Based Gravitational-Wave Data Analysis
 
 masters_students:
@@ -87,10 +92,12 @@ graduate_alumni:
 former_postdocs:
   - name: Wei Su
     chinese_name: 苏威
+    homepage: https://spa.sysu.edu.cn/zh-hans/node/1905
     affiliation: Sun Yat-sen University
     affiliation_url: https://www.sysu.edu.cn/sysuen/
   - name: Tan Liu
     chinese_name: 刘谈
+    homepage: https://psat.yangtzeu.edu.cn/info/1048/1153.htm
     affiliation: Yangtze University
     affiliation_url: https://english.yangtzeu.edu.cn/
   - name: Jiewen Chen

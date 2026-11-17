@@ -3,7 +3,12 @@
 <li class="group-member">
   <div class="group-member-header">
     <{{ name_heading }} class="group-member-name">{% if member.homepage %}<a href="{{ member.homepage | escape }}">{% endif %}{{ member.name | escape }} <span class="group-member-chinese">({{ member.chinese_name | escape }})</span>{% if member.homepage %}</a>{% endif %}</{{ name_heading }}>
-    {% if member.timeline %}<p class="group-member-timeline">{{ member.timeline | escape }}</p>{% endif %}
+    {% if member.timeline %}
+      <div class="group-member-studies">
+        <p class="group-member-timeline">{{ member.timeline | escape }}</p>
+        {% if member.masters_started %}<p class="group-member-prior">Master's studies began in {{ member.masters_started | escape }} (before PhD transfer).</p>{% endif %}
+      </div>
+    {% endif %}
   </div>
   {% if member.role %}<p class="group-member-role">{{ member.role | escape }}</p>{% endif %}
   {% if member.research_area %}<p class="group-member-research">{{ member.research_area | escape }}</p>{% endif %}

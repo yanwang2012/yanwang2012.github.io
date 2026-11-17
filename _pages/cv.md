@@ -24,7 +24,7 @@ author_profile: true
 ## Publications and Projects
 
 - Published more than 50 research papers in international journals.
-- Principal investigator of one NSFC Young Scientists Fund project and one NSFC General Program project.
+- Principal investigator of one NSFC Young Scientists Fund project and two NSFC General Program projects.
 - Principal investigator of one task in a National Key Research and Development Program of China project.
 - Participant in multiple additional research grants and collaborations.
 

@@ -10,21 +10,34 @@ redirect_from:
 I am a professor at the [National Gravitational Laboratory](https://ngl.hust.edu.cn)
 and [School of Physics](http://phys.hust.edu.cn),
 [Huazhong University of Science and Technology](https://www.hust.edu.cn)
-(华中科技大学国家精密重力测量科学中心和物理学院), Wuhan, China. My research
-focuses on relativistic astrophysics, gravitational-wave astrophysics, and
-gravitational-wave data analysis.
+(华中科技大学国家精密重力测量科学中心和物理学院), Wuhan, China. I have worked in
+gravitational-wave astronomy and astrophysics for more than 15 years. My research
+combines relativistic astrophysics, gravitational-wave source modeling, and
+statistical methods for detecting and interpreting gravitational-wave signals.
 
-I lead the Gravitational-Wave Physics Group, a research group of about ten
-graduate students, with nearly ten graduate students and postdoctoral
-researchers having completed their training in the group. Our work connects
-compact-object astrophysics, gravitational-wave source modeling, statistical
-inference, and data-analysis methods for current and future gravitational-wave
-observatories.
+My current work focuses on the nanohertz band probed by pulsar timing arrays
+(PTAs) and the millihertz band targeted by space-based detectors such as LISA
+and TianQin. We develop methods for signal searches, noise mitigation, and
+parameter estimation, and study black holes, neutron stars, and white dwarfs
+through gravitational-wave and multimessenger observations.
+
+I lead the [Gravitational-Wave Physics Group]({{ '/group/' | relative_url }}),
+which currently includes {{ site.data.group_members.phd_students.size }} PhD
+students and {{ site.data.group_members.masters_students.size }} master's
+students. Our alumni include {{ site.data.group_members.graduate_alumni.size }}
+former graduate students and {{ site.data.group_members.former_postdocs.size }}
+former postdoctoral researchers. The group brings together theoretical modeling,
+statistical inference, and scientific computing, with international joint
+doctoral training as part of our research activities.
 
 ## Research Interests
 
-- Relativistic astrophysics
-- Gravitational-wave astrophysics
-- Compact-object binaries and multi-messenger astronomy
-- Gravitational-wave data analysis and parameter estimation
-- Statistical and computational methods for gravitational-wave astronomy
+- PTA data analysis and nanohertz gravitational waves
+- Space-based gravitational-wave data analysis
+- Compact-object binaries and multimessenger astrophysics
+- Strong-gravity phenomena and gravitational waveform modeling
+
+Further details are available on the [Research]({{ '/research/' | relative_url }})
+and [Publications]({{ '/publications/' | relative_url }}) pages. My
+[ADS/SciX public library]({{ site.data.publication_source.url }}) contains the
+latest publication record.
