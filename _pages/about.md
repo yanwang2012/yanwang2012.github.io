@@ -41,6 +41,17 @@ States, Germany, Australia, and other countries.
 - Compact-object binaries and multimessenger astrophysics
 - Strong-gravity phenomena and gravitational waveform modeling
 
+## Academic Service
+
+I serve as a proposal reviewer for the National Natural Science Foundation of
+China (NSFC) and as a member of the FAST International Reviewer Panel.
+
+I also serve as a referee for journals including *Classical and Quantum Gravity*
+(CQG), *Astronomy & Astrophysics* (A&A), *The European Physical Journal C*
+(EPJC), *Science Bulletin*, *Research in Astronomy and Astrophysics* (RAA),
+*Chinese Physics Letters*, *International Journal of Modern Physics D*,
+*Machine Learning: Science and Technology*, and *Planetary and Space Science*.
+
 Further details are available on the [Research]({{ '/research/' | relative_url }})
 and [Publications]({{ '/publications/' | relative_url }}) pages. My
 [ADS/SciX public library]({{ site.data.publication_source.url }}) contains the

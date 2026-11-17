@@ -1,18 +1,20 @@
 {% assign member = include.member %}
 {% assign name_heading = include.heading | default: "h3" %}
 <li class="group-member">
-  <div class="group-member-header">
-    <{{ name_heading }} class="group-member-name">{% if member.homepage %}<a href="{{ member.homepage | escape }}">{% endif %}{{ member.name | escape }} <span class="group-member-chinese">({{ member.chinese_name | escape }})</span>{% if member.homepage %}</a>{% endif %}</{{ name_heading }}>
-    {% if member.timeline %}
+  <div class="group-member-header{% if member.timeline or member.masters_started or member.joint_training %} group-member-header--with-studies{% endif %}">
+    <div class="group-member-main">
+      <{{ name_heading }} class="group-member-name">{% if member.homepage %}<a href="{{ member.homepage | escape }}">{% endif %}{{ member.name | escape }} <span class="group-member-chinese">({{ member.chinese_name | escape }})</span>{% if member.homepage %}</a>{% endif %}</{{ name_heading }}>
+      {% if member.role %}<p class="group-member-role">{{ member.role | escape }}</p>{% endif %}
+      {% if member.research_area %}<p class="group-member-research">{{ member.research_area | escape }}</p>{% endif %}
+      {% if member.note %}<p class="group-member-note">{{ member.note | escape }}</p>{% endif %}
+      {% if member.affiliation %}<p class="group-member-affiliation">Current affiliation: {% if member.affiliation_url %}<a href="{{ member.affiliation_url | escape }}">{{ member.affiliation | escape }}</a>{% else %}{{ member.affiliation | escape }}{% endif %}</p>{% endif %}
+    </div>
+    {% if member.timeline or member.masters_started or member.joint_training %}
       <div class="group-member-studies">
-        <p class="group-member-timeline">{{ member.timeline | escape }}</p>
+        {% if member.timeline %}<p class="group-member-timeline">{{ member.timeline | escape }}</p>{% endif %}
         {% if member.masters_started %}<p class="group-member-prior">Master's studies began in {{ member.masters_started | escape }} (before PhD transfer).</p>{% endif %}
+        {% if member.joint_training %}<p class="group-member-training">Joint doctoral training: {{ member.joint_training | escape }}</p>{% endif %}
       </div>
     {% endif %}
   </div>
-  {% if member.role %}<p class="group-member-role">{{ member.role | escape }}</p>{% endif %}
-  {% if member.research_area %}<p class="group-member-research">{{ member.research_area | escape }}</p>{% endif %}
-  {% if member.joint_training %}<p class="group-member-note">Joint doctoral training: {{ member.joint_training | escape }}</p>{% endif %}
-  {% if member.note %}<p class="group-member-note">{{ member.note | escape }}</p>{% endif %}
-  {% if member.affiliation %}<p class="group-member-affiliation">Current affiliation: {% if member.affiliation_url %}<a href="{{ member.affiliation_url | escape }}">{{ member.affiliation | escape }}</a>{% else %}{{ member.affiliation | escape }}{% endif %}</p>{% endif %}
 </li>
