@@ -1,0 +1,1723 @@
+# Publications data. See local/publications/README.md for maintenance.
+- id: 2026arXiv260725349G
+  title: 'Residual Galactic binary foreground in LISA stochastic gravitational-wave background inference: source
+    power concentration and spectral degeneracy'
+  authors:
+  - name: Ruo-Yu Guan
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2026
+  month: 7
+  sort_key: 2026-07-2026arXiv260725349G
+  type: preprint
+  type_label: Preprint
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: arXiv e-prints
+  citation: arXiv e-prints (2026)
+  doi: 10.48550/arXiv.2607.25349
+  doi_url: https://doi.org/10.48550/arXiv.2607.25349
+  arxiv_url: https://arxiv.org/abs/2607.25349
+  ads_url: https://ui.adsabs.harvard.edu/abs/2026arXiv260725349G
+- id: 2026PhRvD.114b3005W
+  title: Constructing a gravitational wave analysis pipeline for extremely large-mass-ratio inspirals
+  authors:
+  - name: Tian-Xiao Wang
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Alejandro Torres-Orjuela
+    is_self: false
+  - name: Yi-Ren Lin
+    is_self: false
+  - name: Hui-Min Fan
+    is_self: false
+  - name: Verónica Vázquez-Aceves
+    is_self: false
+  - name: Yi-Ming Hu
+    is_self: false
+  year: 2026
+  month: 7
+  sort_key: 2026-07-2026PhRvD.114b3005W
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Physical Review D
+  citation: Physical Review D, 114, 023005 (2026)
+  doi: 10.1103/3hx6-7zyb
+  doi_url: https://doi.org/10.1103/3hx6-7zyb
+  arxiv_url: https://arxiv.org/abs/2601.22464
+  ads_url: https://ui.adsabs.harvard.edu/abs/2026PhRvD.114b3005W
+- id: 2026arXiv260607330T
+  title: 'Red noise and evolving signals: a complete frequentist approach to supermassive black hole binary searches
+    with pulsar timing arrays'
+  authors:
+  - name: Xuan Tao
+    is_self: false
+  - name: Boris Goncharov
+    is_self: false
+  - name: Yiqian Qian
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  year: 2026
+  month: 6
+  sort_key: 2026-06-2026arXiv260607330T
+  type: preprint
+  type_label: Preprint
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: arXiv e-prints
+  citation: arXiv e-prints (2026)
+  doi: 10.48550/arXiv.2606.07330
+  doi_url: https://doi.org/10.48550/arXiv.2606.07330
+  arxiv_url: https://arxiv.org/abs/2606.07330
+  ads_url: https://ui.adsabs.harvard.edu/abs/2026arXiv260607330T
+- id: 2026PhRvD.113j3005Q
+  title: Scalable continuous gravitational wave detection in PTA data with nonparametric red noise suppression and
+    optimal pulsar selection
+  authors:
+  - name: Yi-Qian Qian
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  - name: Siyuan Chen
+    is_self: false
+  year: 2026
+  month: 5
+  sort_key: 2026-05-2026PhRvD.113j3005Q
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Physical Review D
+  citation: Physical Review D, 113, 103005 (2026)
+  doi: 10.1103/1yqv-39pd
+  doi_url: https://doi.org/10.1103/1yqv-39pd
+  arxiv_url: https://arxiv.org/abs/2604.07942
+  ads_url: https://ui.adsabs.harvard.edu/abs/2026PhRvD.113j3005Q
+- id: 2026ChPhB..35e0401H
+  title: Time delay interferometry and principal component analysis for noise cancellation of TianQin
+  authors:
+  - name: Xinchun Hu
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2026
+  month: 5
+  sort_key: 2026-05-2026ChPhB..35e0401H
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Chinese Physics B
+  citation: Chinese Physics B, 35, 050401 (2026)
+  doi: 10.1088/1674-1056/ae12d4
+  doi_url: https://doi.org/10.1088/1674-1056/ae12d4
+  arxiv_url: ''
+  ads_url: https://ui.adsabs.harvard.edu/abs/2026ChPhB..35e0401H
+- id: 2026SSPMA..5619506Z
+  title: Detecting per-frequency anisotropy in gravitational background with Pulsar Timing Array
+  authors:
+  - name: Zi-Hao Chen
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Jianping Yuan
+    is_self: false
+  year: 2026
+  month: 1
+  sort_key: 2026-01-2026SSPMA..5619506Z
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Scientia Sinica Physica, Mechanica & Astronomica
+  citation: Scientia Sinica Physica, Mechanica & Astronomica, 56, 219506 (2026)
+  doi: 10.1360/SSPMA-2025-0275
+  doi_url: https://doi.org/10.1360/SSPMA-2025-0275
+  arxiv_url: ''
+  ads_url: https://ui.adsabs.harvard.edu/abs/2026SSPMA..5619506Z
+- id: 2026SSPMA..5619503Y
+  title: 'Pulsar timing arrays: Searching for the nano-Hertz continuous gravitational waves from supermassive black
+    hole binaries'
+  authors:
+  - name: Yi-Qian Qian
+    is_self: false
+  - name: Xuan Tao
+    is_self: false
+  - name: Siyuan Chen
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2026
+  month: 1
+  sort_key: 2026-01-2026SSPMA..5619503Y
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Scientia Sinica Physica, Mechanica & Astronomica
+  citation: Scientia Sinica Physica, Mechanica & Astronomica, 56, 219503 (2026)
+  doi: 10.1360/SSPMA-2025-0249
+  doi_url: https://doi.org/10.1360/SSPMA-2025-0249
+  arxiv_url: ''
+  ads_url: https://ui.adsabs.harvard.edu/abs/2026SSPMA..5619503Y
+- id: 2025CQGra..42q3001L
+  title: Progress of the TianQin project
+  authors:
+  - name: Jun Luo
+    is_self: false
+  - name: Shaojun Bai
+    is_self: false
+  - name: Yanzheng Bai
+    is_self: false
+  - name: Lin Cai
+    is_self: false
+  - name: Hao Dang
+    is_self: false
+  - name: Qijia Dong
+    is_self: false
+  - name: Hui-Zong Duan
+    is_self: false
+  - name: Yuanbo Du
+    is_self: false
+  - name: Lei Fan
+    is_self: false
+  - name: Xinju Fu
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2025
+  month: 9
+  sort_key: 2025-09-2025CQGra..42q3001L
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Classical and Quantum Gravity
+  citation: Classical and Quantum Gravity, 42, 173001 (2025)
+  doi: 10.1088/1361-6382/adda8a
+  doi_url: https://doi.org/10.1088/1361-6382/adda8a
+  arxiv_url: https://arxiv.org/abs/2502.11328
+  ads_url: https://ui.adsabs.harvard.edu/abs/2025CQGra..42q3001L
+- id: 2025Univ...11..268Q
+  title: Red Noise Suppression in Pulsar Timing Array Data Using Adaptive Splines
+  authors:
+  - name: Yi-Qian Qian
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  year: 2025
+  month: 8
+  sort_key: 2025-08-2025Univ...11..268Q
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Universe
+  citation: Universe, 11, 268 (2025)
+  doi: 10.3390/universe11080268
+  doi_url: https://doi.org/10.3390/universe11080268
+  arxiv_url: ''
+  ads_url: https://ui.adsabs.harvard.edu/abs/2025Univ...11..268Q
+- id: 2025RPPh...88e6901L
+  title: Gravitational wave astronomy with TianQin
+  authors:
+  - name: En-Kun Li
+    is_self: false
+  - name: Shuai Liu
+    is_self: false
+  - name: Alejandro Torres-Orjuela
+    is_self: false
+  - name: Xian Chen
+    is_self: false
+  - name: Kohei Inayoshi
+    is_self: false
+  - name: Long Wang
+    is_self: false
+  - name: Yi-Ming Hu
+    is_self: false
+  - name: Pau Amaro-Seoane
+    is_self: false
+  - name: Abbas Askar
+    is_self: false
+  - name: Cosimo Bambi
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2025
+  month: 5
+  sort_key: 2025-05-2025RPPh...88e6901L
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Reports on Progress in Physics
+  citation: Reports on Progress in Physics, 88, 056901 (2025)
+  doi: 10.1088/1361-6633/adc9be
+  doi_url: https://doi.org/10.1088/1361-6633/adc9be
+  arxiv_url: https://arxiv.org/abs/2409.19665
+  ads_url: https://ui.adsabs.harvard.edu/abs/2025RPPh...88e6901L
+- id: 2025PhRvD.111h3030T
+  title: Detection and parameter estimation of supermassive black hole ringdown signals using a pulsar timing array
+  authors:
+  - name: Xuan Tao
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  year: 2025
+  month: 4
+  sort_key: 2025-04-2025PhRvD.111h3030T
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Physical Review D
+  citation: Physical Review D, 111, 083030 (2025)
+  doi: 10.1103/PhysRevD.111.083030
+  doi_url: https://doi.org/10.1103/PhysRevD.111.083030
+  arxiv_url: https://arxiv.org/abs/2412.07615
+  ads_url: https://ui.adsabs.harvard.edu/abs/2025PhRvD.111h3030T
+- id: 2025PhRvD.111d3026F
+  title: Hierarchical search method for gravitational waves from stellar-mass binary black holes in noisy space-based
+    detector data
+  authors:
+  - name: Yao Fu
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  year: 2025
+  month: 2
+  sort_key: 2025-02-2025PhRvD.111d3026F
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Physical Review D
+  citation: Physical Review D, 111, 043026 (2025)
+  doi: 10.1103/PhysRevD.111.043026
+  doi_url: https://doi.org/10.1103/PhysRevD.111.043026
+  arxiv_url: https://arxiv.org/abs/2407.10797
+  ads_url: https://ui.adsabs.harvard.edu/abs/2025PhRvD.111d3026F
+- id: 2025PhRvD.111b3053F
+  title: Effects of orbital eccentricity on continuous gravitational waveforms from triaxially deformed precessing
+    neutron stars in tight binaries
+  authors:
+  - name: Wen-Fan Feng
+    is_self: false
+  - name: Tan Liu
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Lijing Shao
+    is_self: false
+  year: 2025
+  month: 1
+  sort_key: 2025-01-2025PhRvD.111b3053F
+  type: journal
+  type_label: Journal article
+  topic: gw-astrophysics
+  topic_label: Gravitational-Wave Astrophysics
+  venue: Physical Review D
+  citation: Physical Review D, 111, 023053 (2025)
+  doi: 10.1103/PhysRevD.111.023053
+  doi_url: https://doi.org/10.1103/PhysRevD.111.023053
+  arxiv_url: https://arxiv.org/abs/2410.09540
+  ads_url: https://ui.adsabs.harvard.edu/abs/2025PhRvD.111b3053F
+- id: 2025MNRAS.536.2770J
+  title: Detecting eclipsing double white dwarfs with electromagnetic and gravitational waves
+  authors:
+  - name: Hong-Ming Jin
+    is_self: false
+  - name: Bo Ma
+    is_self: false
+  - name: Yong Shao
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2025
+  month: 1
+  sort_key: 2025-01-2025MNRAS.536.2770J
+  type: journal
+  type_label: Journal article
+  topic: gw-astrophysics
+  topic_label: Gravitational-Wave Astrophysics
+  venue: Monthly Notices of the Royal Astronomical Society
+  citation: Monthly Notices of the Royal Astronomical Society, 536, 2770-2782 (2025)
+  doi: 10.1093/mnras/stae2696
+  doi_url: https://doi.org/10.1093/mnras/stae2696
+  arxiv_url: https://arxiv.org/abs/2406.16474
+  ads_url: https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2770J
+- id: 2024PhRvD.109d3033F
+  title: Inferring binary parameters with dual-line gravitational wave detection from tight inspiraling double neutron
+    stars
+  authors:
+  - name: Wen-Fan Feng
+    is_self: false
+  - name: Jie-Wen Chen
+    is_self: false
+  - name: Tan Liu
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  year: 2024
+  month: 2
+  sort_key: 2024-02-2024PhRvD.109d3033F
+  type: journal
+  type_label: Journal article
+  topic: gw-astrophysics
+  topic_label: Gravitational-Wave Astrophysics
+  venue: Physical Review D
+  citation: Physical Review D, 109, 043033 (2024)
+  doi: 10.1103/PhysRevD.109.043033
+  doi_url: https://doi.org/10.1103/PhysRevD.109.043033
+  arxiv_url: https://arxiv.org/abs/2401.11241
+  ads_url: https://ui.adsabs.harvard.edu/abs/2024PhRvD.109d3033F
+- id: 2023PhRvD.108j3030S
+  title: Evaluating residual acceleration noise for the TianQin gravitational waves observatory with an empirical
+    magnetic field model
+  authors:
+  - name: Wei Su
+    is_self: false
+  - name: Ze-Bing Zhou
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Chen Zhou
+    is_self: false
+  - name: P. F. Chen
+    is_self: false
+  - name: Wei Hong
+    is_self: false
+  - name: J. H. Peng
+    is_self: false
+  - name: Yun Yang
+    is_self: false
+  - name: Y. W. Ni
+    is_self: false
+  year: 2023
+  month: 11
+  sort_key: 2023-11-2023PhRvD.108j3030S
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Physical Review D
+  citation: Physical Review D, 108, 103030 (2023)
+  doi: 10.1103/PhysRevD.108.103030
+  doi_url: https://doi.org/10.1103/PhysRevD.108.103030
+  arxiv_url: https://arxiv.org/abs/2310.10043
+  ads_url: https://ui.adsabs.harvard.edu/abs/2023PhRvD.108j3030S
+- id: 2023PhRvD.108f3035F
+  title: Effects of spin-orbit coupling on gravitational waveforms from a triaxial nonaligned neutron star in a
+    binary system
+  authors:
+  - name: Wen-Fan Feng
+    is_self: false
+  - name: Tan Liu
+    is_self: false
+  - name: Jie-Wen Chen
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  year: 2023
+  month: 9
+  sort_key: 2023-09-2023PhRvD.108f3035F
+  type: journal
+  type_label: Journal article
+  topic: gw-astrophysics
+  topic_label: Gravitational-Wave Astrophysics
+  venue: Physical Review D
+  citation: Physical Review D, 108, 063035 (2023)
+  doi: 10.1103/PhysRevD.108.063035
+  doi_url: https://doi.org/10.1103/PhysRevD.108.063035
+  arxiv_url: https://arxiv.org/abs/2307.01055
+  ads_url: https://ui.adsabs.harvard.edu/abs/2023PhRvD.108f3035F
+- id: 2023PhRvD.108b4006L
+  title: Gravitational waveforms from the inspiral of compact binaries in the Brans-Dicke theory in an expanding
+    Universe
+  authors:
+  - name: Tan Liu
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Wen Zhao
+    is_self: false
+  year: 2023
+  month: 7
+  sort_key: 2023-07-2023PhRvD.108b4006L
+  type: journal
+  type_label: Journal article
+  topic: relativity
+  topic_label: Relativistic Astrophysics and Gravity
+  venue: Physical Review D
+  citation: Physical Review D, 108, 024006 (2023)
+  doi: 10.1103/PhysRevD.108.024006
+  doi_url: https://doi.org/10.1103/PhysRevD.108.024006
+  arxiv_url: https://arxiv.org/abs/2205.03704
+  ads_url: https://ui.adsabs.harvard.edu/abs/2023PhRvD.108b4006L
+- id: 2023PhRvD.107j3035F
+  title: Multimessenger observations of double neutron stars in the Galactic disk with gravitational and radio waves
+  authors:
+  - name: Wen-Fan Feng
+    is_self: false
+  - name: Jie-Wen Chen
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  - name: Yong Shao
+    is_self: false
+  year: 2023
+  month: 5
+  sort_key: 2023-05-2023PhRvD.107j3035F
+  type: journal
+  type_label: Journal article
+  topic: gw-astrophysics
+  topic_label: Gravitational-Wave Astrophysics
+  venue: Physical Review D
+  citation: Physical Review D, 107, 103035 (2023)
+  doi: 10.1103/PhysRevD.107.103035
+  doi_url: https://doi.org/10.1103/PhysRevD.107.103035
+  arxiv_url: https://arxiv.org/abs/2305.05202
+  ads_url: https://ui.adsabs.harvard.edu/abs/2023PhRvD.107j3035F
+- id: 2022PhRvD.106b3016Q
+  title: Iterative time-domain method for resolving multiple gravitational wave sources in pulsar timing array data
+  authors:
+  - name: Yi-Qian Qian
+    is_self: false
+  - name: Soumya D. Mohanty
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2022
+  month: 7
+  sort_key: 2022-07-2022PhRvD.106b3016Q
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Physical Review D
+  citation: Physical Review D, 106, 023016 (2022)
+  doi: 10.1103/PhysRevD.106.023016
+  doi_url: https://doi.org/10.1103/PhysRevD.106.023016
+  arxiv_url: https://arxiv.org/abs/2110.14959
+  ads_url: https://ui.adsabs.harvard.edu/abs/2022PhRvD.106b3016Q
+- id: 2022arXiv220400749C
+  title: Prospects and Strategies for Detecting Nonlinear Gravitational Wave Burst with Memory from Potential Merger
+    Event SDSSJ1430+2303 by Pulsar Timing Arrays
+  authors:
+  - name: Jie-Wen Chen
+    is_self: false
+  - name: Yiqiu Ma
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2022
+  month: 4
+  sort_key: 2022-04-2022arXiv220400749C
+  type: preprint
+  type_label: Preprint
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: arXiv e-prints
+  citation: arXiv e-prints (2022)
+  doi: 10.48550/arXiv.2204.00749
+  doi_url: https://doi.org/10.48550/arXiv.2204.00749
+  arxiv_url: https://arxiv.org/abs/2204.00749
+  ads_url: https://ui.adsabs.harvard.edu/abs/2022arXiv220400749C
+- id: 2022ApJ...929..175S
+  title: Quantifying the Magnetic Structure of a Coronal Shock Producing a Type II Radio Burst
+  authors:
+  - name: W. Su
+    is_self: false
+  - name: T. M. Li
+    is_self: false
+  - name: X. Cheng
+    is_self: false
+  - name: L. Feng
+    is_self: false
+  - name: P. J. Zhang
+    is_self: false
+  - name: P. F. Chen
+    is_self: false
+  - name: M. D. Ding
+    is_self: false
+  - name: L. J. Chen
+    is_self: false
+  - name: Y. Guo
+    is_self: false
+  - name: Y. Wang
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2022
+  month: 4
+  sort_key: 2022-04-2022ApJ...929..175S
+  type: journal
+  type_label: Journal article
+  topic: other
+  topic_label: Other Astrophysics
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 929, 175 (2022)
+  doi: 10.3847/1538-4357/ac5fac
+  doi_url: https://doi.org/10.3847/1538-4357/ac5fac
+  arxiv_url: https://arxiv.org/abs/2203.11042
+  ads_url: https://ui.adsabs.harvard.edu/abs/2022ApJ...929..175S
+- id: 2022ApJ...929..168C
+  title: 'Parameter-estimation Biases for Eccentric Supermassive Binary Black Holes in Pulsar Timing Arrays: Biases
+    Caused by Ignored Pulsar Terms'
+  authors:
+  - name: Jie-Wen Chen
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2022
+  month: 4
+  sort_key: 2022-04-2022ApJ...929..168C
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 929, 168 (2022)
+  doi: 10.3847/1538-4357/ac5bd4
+  doi_url: https://doi.org/10.3847/1538-4357/ac5bd4
+  arxiv_url: https://arxiv.org/abs/2203.05280
+  ads_url: https://ui.adsabs.harvard.edu/abs/2022ApJ...929..168C
+- id: 2021SCPMA..6420401B
+  title: 'The Gravitational-wave physics II: Progress'
+  authors:
+  - name: Ligong Bian
+    is_self: false
+  - name: Rong-Gen Cai
+    is_self: false
+  - name: Shuo Cao
+    is_self: false
+  - name: Zhoujian Cao
+    is_self: false
+  - name: He Gao
+    is_self: false
+  - name: Zong-Kuan Guo
+    is_self: false
+  - name: Kejia Lee
+    is_self: false
+  - name: Di Li
+    is_self: false
+  - name: Jing Liu
+    is_self: false
+  - name: Youjun Lu
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2021
+  month: 12
+  sort_key: 2021-12-2021SCPMA..6420401B
+  type: journal
+  type_label: Journal article
+  topic: relativity
+  topic_label: Relativistic Astrophysics and Gravity
+  venue: Science China Physics, Mechanics, and Astronomy
+  citation: Science China Physics, Mechanics, and Astronomy, 64, 120401 (2021)
+  doi: 10.1007/s11433-021-1781-x
+  doi_url: https://doi.org/10.1007/s11433-021-1781-x
+  arxiv_url: https://arxiv.org/abs/2106.10235
+  ads_url: https://ui.adsabs.harvard.edu/abs/2021SCPMA..6420401B
+- id: 2021ApJ...922..228S
+  title: 'Search for Continuous Gravitational-wave Signals in Pulsar Timing Residuals: A New Scalable Approach with
+    Diffusive Nested Sampling'
+  authors:
+  - name: Yu-Yang Songsheng
+    is_self: false
+  - name: Yi-Qian Qian
+    is_self: false
+  - name: Yan-Rong Li
+    is_self: false
+  - name: Pu Du
+    is_self: false
+  - name: Jie-Wen Chen
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  - name: Jian-Min Wang
+    is_self: false
+  year: 2021
+  month: 12
+  sort_key: 2021-12-2021ApJ...922..228S
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 922, 228 (2021)
+  doi: 10.3847/1538-4357/ac25fc
+  doi_url: https://doi.org/10.3847/1538-4357/ac25fc
+  arxiv_url: https://arxiv.org/abs/2109.00367
+  ads_url: https://ui.adsabs.harvard.edu/abs/2021ApJ...922..228S
+- id: 2021ApJ...914..139S
+  title: Analyses of Laser Propagation Noises for TianQin Gravitational Wave Observatory Based on the Global Magnetosphere
+    MHD Simulations
+  authors:
+  - name: Wei Su
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Chen Zhou
+    is_self: false
+  - name: Lingfeng Lu
+    is_self: false
+  - name: Ze-Bing Zhou
+    is_self: false
+  - name: T. M. Li
+    is_self: false
+  - name: Tong Shi
+    is_self: false
+  - name: Xin-Chun Hu
+    is_self: false
+  - name: Ming-Yue Zhou
+    is_self: false
+  - name: Ming Wang
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2021
+  month: 6
+  sort_key: 2021-06-2021ApJ...914..139S
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 914, 139 (2021)
+  doi: 10.3847/1538-4357/abfc49
+  doi_url: https://doi.org/10.3847/1538-4357/abfc49
+  arxiv_url: https://arxiv.org/abs/2102.10574
+  ads_url: https://ui.adsabs.harvard.edu/abs/2021ApJ...914..139S
+- id: 2021PhRvD.103j3026Z
+  title: Orbital effects on time delay interferometry for TianQin
+  authors:
+  - name: Ming-Yue Zhou
+    is_self: false
+  - name: Xin-Chun Hu
+    is_self: false
+  - name: Bobing Ye
+    is_self: false
+  - name: Shoucun Hu
+    is_self: false
+  - name: Dong-Dong Zhu
+    is_self: false
+  - name: Xuefeng Zhang
+    is_self: false
+  - name: Wei Su
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2021
+  month: 5
+  sort_key: 2021-05-2021PhRvD.103j3026Z
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Physical Review D
+  citation: Physical Review D, 103, 103026 (2021)
+  doi: 10.1103/PhysRevD.103.103026
+  doi_url: https://doi.org/10.1103/PhysRevD.103.103026
+  arxiv_url: https://arxiv.org/abs/2102.10291
+  ads_url: https://ui.adsabs.harvard.edu/abs/2021PhRvD.103j3026Z
+- id: 2021PTEP.2021eA107M
+  title: 'The TianQin project: Current progress on science and technology'
+  authors:
+  - name: Jianwei Mei
+    is_self: false
+  - name: Yan-Zheng Bai
+    is_self: false
+  - name: Jiahui Bao
+    is_self: false
+  - name: Enrico Barausse
+    is_self: false
+  - name: Lin Cai
+    is_self: false
+  - name: Enrico Canuto
+    is_self: false
+  - name: Bin Cao
+    is_self: false
+  - name: Wei-Ming Chen
+    is_self: false
+  - name: Yu Chen
+    is_self: false
+  - name: Yan-Wei Ding
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2021
+  month: 5
+  sort_key: 2021-05-2021PTEP.2021eA107M
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Progress of Theoretical and Experimental Physics
+  citation: Progress of Theoretical and Experimental Physics, 2021, 05A107 (2021)
+  doi: 10.1093/ptep/ptaa114
+  doi_url: https://doi.org/10.1093/ptep/ptaa114
+  arxiv_url: https://arxiv.org/abs/2008.10332
+  ads_url: https://ui.adsabs.harvard.edu/abs/2021PTEP.2021eA107M
+- id: 2021ApJ...907L..43W
+  title: Extending the Frequency Reach of Pulsar Timing Array-based Gravitational Wave Search without High-cadence
+    Observations
+  authors:
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  - name: Zhoujian Cao
+    is_self: false
+  year: 2021
+  month: 2
+  sort_key: 2021-02-2021ApJ...907L..43W
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: The Astrophysical Journal Letters
+  citation: The Astrophysical Journal Letters, 907, L43 (2021)
+  doi: 10.3847/2041-8213/abd9bd
+  doi_url: https://doi.org/10.3847/2041-8213/abd9bd
+  arxiv_url: https://arxiv.org/abs/2012.04261
+  ads_url: https://ui.adsabs.harvard.edu/abs/2021ApJ...907L..43W
+- id: 2020PhRvD.102l4035L
+  title: Gravitational waveforms from the quasicircular inspiral of compact binaries in massive Brans-Dicke theory
+  authors:
+  - name: Tan Liu
+    is_self: false
+  - name: Wen Zhao
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2020
+  month: 12
+  sort_key: 2020-12-2020PhRvD.102l4035L
+  type: journal
+  type_label: Journal article
+  topic: relativity
+  topic_label: Relativistic Astrophysics and Gravity
+  venue: Physical Review D
+  citation: Physical Review D, 102, 124035 (2020)
+  doi: 10.1103/PhysRevD.102.124035
+  doi_url: https://doi.org/10.1103/PhysRevD.102.124035
+  arxiv_url: https://arxiv.org/abs/2007.10068
+  ads_url: https://ui.adsabs.harvard.edu/abs/2020PhRvD.102l4035L
+- id: 2020CQGra..37r5017S
+  title: Analyses of residual accelerations for TianQin based on the global MHD simulation
+  authors:
+  - name: Wei Su
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Ze-Bing Zhou
+    is_self: false
+  - name: Yan-Zheng Bai
+    is_self: false
+  - name: Yang Guo
+    is_self: false
+  - name: Chen Zhou
+    is_self: false
+  - name: Tom Lee
+    is_self: false
+  - name: Ming Wang
+    is_self: false
+  - name: Ming-Yue Zhou
+    is_self: false
+  - name: Tong Shi
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2020
+  month: 9
+  sort_key: 2020-09-2020CQGra..37r5017S
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Classical and Quantum Gravity
+  citation: Classical and Quantum Gravity, 37, 185017 (2020)
+  doi: 10.1088/1361-6382/aba181
+  doi_url: https://doi.org/10.1088/1361-6382/aba181
+  arxiv_url: https://arxiv.org/abs/2004.00254
+  ads_url: https://ui.adsabs.harvard.edu/abs/2020CQGra..37r5017S
+- id: 2020MNRAS.491.5951H
+  title: A pulsar-based time-scale from the International Pulsar Timing Array
+  authors:
+  - name: G. Hobbs
+    is_self: false
+  - name: L. Guo
+    is_self: false
+  - name: R. N. Caballero
+    is_self: false
+  - name: W. Coles
+    is_self: false
+  - name: K. J. Lee
+    is_self: false
+  - name: R. N. Manchester
+    is_self: false
+  - name: D. J. Reardon
+    is_self: false
+  - name: D. Matsakis
+    is_self: false
+  - name: M. L. Tong
+    is_self: false
+  - name: Z. Arzoumanian
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2020
+  month: 2
+  sort_key: 2020-02-2020MNRAS.491.5951H
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Monthly Notices of the Royal Astronomical Society
+  citation: Monthly Notices of the Royal Astronomical Society, 491, 5951-5965 (2020)
+  doi: 10.1093/mnras/stz3071
+  doi_url: https://doi.org/10.1093/mnras/stz3071
+  arxiv_url: https://arxiv.org/abs/1910.13628
+  ads_url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.5951H
+- id: 2020PASA...37....2W
+  title: Fundamental physics with the Square Kilometre Array
+  authors:
+  - name: A. Weltman
+    is_self: false
+  - name: P. Bull
+    is_self: false
+  - name: S. Camera
+    is_self: false
+  - name: K. Kelley
+    is_self: false
+  - name: H. Padmanabhan
+    is_self: false
+  - name: J. Pritchard
+    is_self: false
+  - name: A. Raccanelli
+    is_self: false
+  - name: S. Riemer-Sørensen
+    is_self: false
+  - name: L. Shao
+    is_self: false
+  - name: S. Andrianomena
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2020
+  month: 1
+  sort_key: 2020-01-2020PASA...37....2W
+  type: journal
+  type_label: Journal article
+  topic: other
+  topic_label: Other Astrophysics
+  venue: Publications of the Astronomical Society of Australia
+  citation: Publications of the Astronomical Society of Australia, 37, e002 (2020)
+  doi: 10.1017/pasa.2019.42
+  doi_url: https://doi.org/10.1017/pasa.2019.42
+  arxiv_url: https://arxiv.org/abs/1810.02680
+  ads_url: https://ui.adsabs.harvard.edu/abs/2020PASA...37....2W
+- id: 2019PhRvD.100d3003W
+  title: 'Science with the TianQin observatory: Preliminary results on massive black hole binaries'
+  authors:
+  - name: Hai-Tian Wang
+    is_self: false
+  - name: Zhen Jiang
+    is_self: false
+  - name: Alberto Sesana
+    is_self: false
+  - name: Enrico Barausse
+    is_self: false
+  - name: Shun-Jia Huang
+    is_self: false
+  - name: Yi-Fan Wang
+    is_self: false
+  - name: Wen-Fan Feng
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Yi-Ming Hu
+    is_self: false
+  - name: Jianwei Mei
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2019
+  month: 8
+  sort_key: 2019-08-2019PhRvD.100d3003W
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Physical Review D
+  citation: Physical Review D, 100, 043003 (2019)
+  doi: 10.1103/PhysRevD.100.043003
+  doi_url: https://doi.org/10.1103/PhysRevD.100.043003
+  arxiv_url: https://arxiv.org/abs/1902.04423
+  ads_url: https://ui.adsabs.harvard.edu/abs/2019PhRvD.100d3003W
+- id: 2019PhRvD..99l3002F
+  title: Preliminary study on parameter estimation accuracy of supermassive black hole binary inspirals for TianQin
+  authors:
+  - name: Wen-Fan Feng
+    is_self: false
+  - name: Hai-Tian Wang
+    is_self: false
+  - name: Xin-Chun Hu
+    is_self: false
+  - name: Yi-Ming Hu
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2019
+  month: 6
+  sort_key: 2019-06-2019PhRvD..99l3002F
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Physical Review D
+  citation: Physical Review D, 99, 123002 (2019)
+  doi: 10.1103/PhysRevD.99.123002
+  doi_url: https://doi.org/10.1103/PhysRevD.99.123002
+  arxiv_url: https://arxiv.org/abs/1901.02159
+  ads_url: https://ui.adsabs.harvard.edu/abs/2019PhRvD..99l3002F
+- id: 2019IJMPD..2850121Y
+  title: Optimizing orbits for TianQin
+  authors:
+  - name: Bo-Bing Ye
+    is_self: false
+  - name: Xuefeng Zhang
+    is_self: false
+  - name: Ming-Yue Zhou
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Hui-Min Yuan
+    is_self: false
+  - name: Defeng Gu
+    is_self: false
+  - name: Yanwei Ding
+    is_self: false
+  - name: Jinxiu Zhang
+    is_self: false
+  - name: Jianwei Mei
+    is_self: false
+  - name: Jun Luo
+    is_self: false
+  year: 2019
+  month: 1
+  sort_key: 2019-01-2019IJMPD..2850121Y
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: International Journal of Modern Physics D
+  citation: International Journal of Modern Physics D, 28, 1950121 (2019)
+  doi: 10.1142/S0218271819501219
+  doi_url: https://doi.org/10.1142/S0218271819501219
+  arxiv_url: https://arxiv.org/abs/2012.03260
+  ads_url: https://ui.adsabs.harvard.edu/abs/2019IJMPD..2850121Y
+- id: 2018CQGra..35i5008H
+  title: Fundamentals of the orbit and response for TianQin
+  authors:
+  - name: Xin-Chun Hu
+    is_self: false
+  - name: Xiao-Hong Li
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Wen-Fan Feng
+    is_self: false
+  - name: Ming-Yue Zhou
+    is_self: false
+  - name: Yi-Ming Hu
+    is_self: false
+  - name: Shou-Cun Hu
+    is_self: false
+  - name: Jian-Wei Mei
+    is_self: false
+  - name: Cheng-Gang Shao
+    is_self: false
+  year: 2018
+  month: 5
+  sort_key: 2018-05-2018CQGra..35i5008H
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Classical and Quantum Gravity
+  citation: Classical and Quantum Gravity, 35, 095008 (2018)
+  doi: 10.1088/1361-6382/aab52f
+  doi_url: https://doi.org/10.1088/1361-6382/aab52f
+  arxiv_url: https://arxiv.org/abs/1803.03368
+  ads_url: https://ui.adsabs.harvard.edu/abs/2018CQGra..35i5008H
+- id: 2018JPhCS.957a2003W
+  title: Prospects for gravitational wave astronomy with next generation large-scale pulsar timing arrays
+  authors:
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  year: 2018
+  month: 2
+  sort_key: 2018-02-2018JPhCS.957a2003W
+  type: conference
+  type_label: Conference paper
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Journal of Physics Conference Series
+  citation: Journal of Physics Conference Series, 957, 012003 (2018)
+  doi: 10.1088/1742-6596/957/1/012003
+  doi_url: https://doi.org/10.1088/1742-6596/957/1/012003
+  arxiv_url: https://arxiv.org/abs/1711.04435
+  ads_url: https://ui.adsabs.harvard.edu/abs/2018JPhCS.957a2003W
+- id: 2017JPhCS.840a2058W
+  title: 'Continuous gravitational wave searches with pulsar timing arrays: Maximization versus marginalization
+    over pulsar phase parameters'
+  authors:
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  - name: Yi-Qian Qian
+    is_self: false
+  year: 2017
+  month: 5
+  sort_key: 2017-05-2017JPhCS.840a2058W
+  type: conference
+  type_label: Conference paper
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Journal of Physics Conference Series
+  citation: Journal of Physics Conference Series, 840, 012058 (2017)
+  doi: 10.1088/1742-6596/840/1/012058
+  doi_url: https://doi.org/10.1088/1742-6596/840/1/012058
+  arxiv_url: https://arxiv.org/abs/1704.05784
+  ads_url: https://ui.adsabs.harvard.edu/abs/2017JPhCS.840a2058W
+- id: 2017PhRvL.118o1104W
+  title: Pulsar Timing Array Based Search for Supermassive Black Hole Binaries in the Square Kilometer Array Era
+  authors:
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  year: 2017
+  month: 4
+  sort_key: 2017-04-2017PhRvL.118o1104W
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Physical Review Letters
+  citation: Physical Review Letters, 118, 151104 (2017)
+  doi: 10.1103/PhysRevLett.118.151104
+  doi_url: https://doi.org/10.1103/PhysRevLett.118.151104
+  arxiv_url: https://arxiv.org/abs/1611.09440
+  ads_url: https://ui.adsabs.harvard.edu/abs/2017PhRvL.118o1104W
+- id: 2017RAA....17...19W
+  title: Statistical analyses for NANOGrav 5-year timing residuals
+  authors:
+  - name: Yan Wang
+    is_self: true
+  - name: James M. Cordes
+    is_self: false
+  - name: Fredrick A. Jenet
+    is_self: false
+  - name: Shami Chatterjee
+    is_self: false
+  - name: Paul B. Demorest
+    is_self: false
+  - name: Timothy Dolch
+    is_self: false
+  - name: Justin A. Ellis
+    is_self: false
+  - name: Michael T. Lam
+    is_self: false
+  - name: Dustin R. Madison
+    is_self: false
+  - name: Maura A. McLaughlin
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2017
+  month: 2
+  sort_key: 2017-02-2017RAA....17...19W
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Research in Astronomy and Astrophysics
+  citation: Research in Astronomy and Astrophysics, 17, 19 (2017)
+  doi: 10.1088/1674-4527/17/2/19
+  doi_url: https://doi.org/10.1088/1674-4527/17/2/19
+  arxiv_url: https://arxiv.org/abs/1610.08760
+  ads_url: https://ui.adsabs.harvard.edu/abs/2017RAA....17...19W
+- id: 2016MNRAS.461.1317Z
+  title: 'Detection and localization of continuous gravitational waves with pulsar timing arrays: the role of pulsar
+    terms'
+  authors:
+  - name: X.-J. Zhu
+    is_self: false
+  - name: L. Wen
+    is_self: false
+  - name: J. Xiong
+    is_self: false
+  - name: Y. Xu
+    is_self: false
+  - name: Y. Wang
+    is_self: false
+  - name: S. D. Mohanty
+    is_self: false
+  - name: G. Hobbs
+    is_self: false
+  - name: R. N. Manchester
+    is_self: false
+  year: 2016
+  month: 9
+  sort_key: 2016-09-2016MNRAS.461.1317Z
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Monthly Notices of the Royal Astronomical Society
+  citation: Monthly Notices of the Royal Astronomical Society, 461, 1317-1327 (2016)
+  doi: 10.1093/mnras/stw1446
+  doi_url: https://doi.org/10.1093/mnras/stw1446
+  arxiv_url: https://arxiv.org/abs/1606.04539
+  ads_url: https://ui.adsabs.harvard.edu/abs/2016MNRAS.461.1317Z
+- id: 2016MNRAS.458.2161L
+  title: 'From spin noise to systematics: stochastic processes in the first International Pulsar Timing Array data
+    release'
+  authors:
+  - name: L. Lentati
+    is_self: false
+  - name: R. M. Shannon
+    is_self: false
+  - name: W. A. Coles
+    is_self: false
+  - name: J. P. W. Verbiest
+    is_self: false
+  - name: R. van Haasteren
+    is_self: false
+  - name: J. A. Ellis
+    is_self: false
+  - name: R. N. Caballero
+    is_self: false
+  - name: R. N. Manchester
+    is_self: false
+  - name: Z. Arzoumanian
+    is_self: false
+  - name: S. Babak
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2016
+  month: 5
+  sort_key: 2016-05-2016MNRAS.458.2161L
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Monthly Notices of the Royal Astronomical Society
+  citation: Monthly Notices of the Royal Astronomical Society, 458, 2161-2187 (2016)
+  doi: 10.1093/mnras/stw395
+  doi_url: https://doi.org/10.1093/mnras/stw395
+  arxiv_url: https://arxiv.org/abs/1602.05570
+  ads_url: https://ui.adsabs.harvard.edu/abs/2016MNRAS.458.2161L
+- id: 2016MNRAS.458.1267V
+  title: 'The International Pulsar Timing Array: First data release'
+  authors:
+  - name: J. P. W. Verbiest
+    is_self: false
+  - name: L. Lentati
+    is_self: false
+  - name: G. Hobbs
+    is_self: false
+  - name: R. van Haasteren
+    is_self: false
+  - name: P. B. Demorest
+    is_self: false
+  - name: G. H. Janssen
+    is_self: false
+  - name: J.-B. Wang
+    is_self: false
+  - name: G. Desvignes
+    is_self: false
+  - name: R. N. Caballero
+    is_self: false
+  - name: M. J. Keith
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2016
+  month: 5
+  sort_key: 2016-05-2016MNRAS.458.1267V
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Monthly Notices of the Royal Astronomical Society
+  citation: Monthly Notices of the Royal Astronomical Society, 458, 1267-1288 (2016)
+  doi: 10.1093/mnras/stw347
+  doi_url: https://doi.org/10.1093/mnras/stw347
+  arxiv_url: https://arxiv.org/abs/1602.03640
+  ads_url: https://ui.adsabs.harvard.edu/abs/2016MNRAS.458.1267V
+- id: 2016ApJ...821...13A
+  title: 'The NANOGrav Nine-year Data Set: Limits on the Isotropic Stochastic Gravitational Wave Background'
+  authors:
+  - name: Z. Arzoumanian
+    is_self: false
+  - name: A. Brazier
+    is_self: false
+  - name: S. Burke-Spolaor
+    is_self: false
+  - name: S. J. Chamberlin
+    is_self: false
+  - name: S. Chatterjee
+    is_self: false
+  - name: B. Christy
+    is_self: false
+  - name: J. M. Cordes
+    is_self: false
+  - name: N. J. Cornish
+    is_self: false
+  - name: K. Crowter
+    is_self: false
+  - name: P. B. Demorest
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2016
+  month: 4
+  sort_key: 2016-04-2016ApJ...821...13A
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 821, 13 (2016)
+  doi: 10.3847/0004-637X/821/1/13
+  doi_url: https://doi.org/10.3847/0004-637X/821/1/13
+  arxiv_url: https://arxiv.org/abs/1508.03024
+  ads_url: https://ui.adsabs.harvard.edu/abs/2016ApJ...821...13A
+- id: 2016CQGra..33c5010L
+  title: 'TianQin: a space-borne gravitational wave detector'
+  authors:
+  - name: Jun Luo
+    is_self: false
+  - name: Li-Sheng Chen
+    is_self: false
+  - name: Hui-Zong Duan
+    is_self: false
+  - name: Yun-Gui Gong
+    is_self: false
+  - name: Shoucun Hu
+    is_self: false
+  - name: Jianghui Ji
+    is_self: false
+  - name: Qi Liu
+    is_self: false
+  - name: Jianwei Mei
+    is_self: false
+  - name: Vadim Milyukov
+    is_self: false
+  - name: Mikhail Sazhin
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2016
+  month: 2
+  sort_key: 2016-02-2016CQGra..33c5010L
+  type: journal
+  type_label: Journal article
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Classical and Quantum Gravity
+  citation: Classical and Quantum Gravity, 33, 035010 (2016)
+  doi: 10.1088/0264-9381/33/3/035010
+  doi_url: https://doi.org/10.1088/0264-9381/33/3/035010
+  arxiv_url: https://arxiv.org/abs/1512.02076
+  ads_url: https://ui.adsabs.harvard.edu/abs/2016CQGra..33c5010L
+- id: 2016gac..conf..360M
+  title: Fundamentals of the TianQin mission
+  authors:
+  - name: Jianwei Mei
+    is_self: false
+  - name: Chenggang Shao
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2016
+  month: 1
+  sort_key: 2016-01-2016gac..conf..360M
+  type: conference
+  type_label: Conference paper
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Gravitation, Astrophysics, and Cosmology
+  citation: Gravitation, Astrophysics, and Cosmology, 360-361 (2016)
+  doi: 10.1142/9789814759816_0079
+  doi_url: https://doi.org/10.1142/9789814759816_0079
+  arxiv_url: https://arxiv.org/abs/1510.04754
+  ads_url: https://ui.adsabs.harvard.edu/abs/2016gac..conf..360M
+- id: 2016gac..conf...44L
+  title: TianQin mission concept
+  authors:
+  - name: Jun Luo
+    is_self: false
+  - name: Jianwei Mei
+    is_self: false
+  - name: Chenggang Shao
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  - name: Hsien-Chi Yeh
+    is_self: false
+  - name: Ze-Bing Zhou
+    is_self: false
+  - name: Vadim Milyukov
+    is_self: false
+  - name: Michail Sazhin
+    is_self: false
+  year: 2016
+  month: 1
+  sort_key: 2016-01-2016gac..conf...44L
+  type: conference
+  type_label: Conference paper
+  topic: space
+  topic_label: Space-Based Gravitational-Wave Detection
+  venue: Gravitation, Astrophysics, and Cosmology
+  citation: Gravitation, Astrophysics, and Cosmology, 44-48 (2016)
+  doi: 10.1142/9789814759816_0006
+  doi_url: https://doi.org/10.1142/9789814759816_0006
+  arxiv_url: ''
+  ads_url: https://ui.adsabs.harvard.edu/abs/2016gac..conf...44L
+- id: 2015ApJ...815..125W
+  title: 'Coherent Network Analysis for Continuous Gravitational Wave Signals in a Pulsar Timing Array: Pulsar Phases
+    as Extrinsic Parameters'
+  authors:
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  - name: Fredrick A. Jenet
+    is_self: false
+  year: 2015
+  month: 12
+  sort_key: 2015-12-2015ApJ...815..125W
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 815, 125 (2015)
+  doi: 10.1088/0004-637X/815/2/125
+  doi_url: https://doi.org/10.1088/0004-637X/815/2/125
+  arxiv_url: https://arxiv.org/abs/1506.01526
+  ads_url: https://ui.adsabs.harvard.edu/abs/2015ApJ...815..125W
+- id: 2015ApJ...813...65N
+  title: 'The NANOGrav Nine-year Data Set: Observations, Arrival Time Measurements, and Analysis of 37 Millisecond
+    Pulsars'
+  authors:
+  - name: NANOGrav Collaboration
+    is_self: false
+  - name: Zaven Arzoumanian
+    is_self: false
+  - name: Adam Brazier
+    is_self: false
+  - name: Sarah Burke-Spolaor
+    is_self: false
+  - name: Sydney Chamberlin
+    is_self: false
+  - name: Shami Chatterjee
+    is_self: false
+  - name: Brian Christy
+    is_self: false
+  - name: James M. Cordes
+    is_self: false
+  - name: Neil Cornish
+    is_self: false
+  - name: Kathryn Crowter
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2015
+  month: 11
+  sort_key: 2015-11-2015ApJ...813...65N
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 813, 65 (2015)
+  doi: 10.1088/0004-637X/813/1/65
+  doi_url: https://doi.org/10.1088/0004-637X/813/1/65
+  arxiv_url: https://arxiv.org/abs/1505.07540
+  ads_url: https://ui.adsabs.harvard.edu/abs/2015ApJ...813...65N
+- id: 2015ApJ...810..150A
+  title: NANOGrav Constraints on Gravitational Wave Bursts with Memory
+  authors:
+  - name: Z. Arzoumanian
+    is_self: false
+  - name: A. Brazier
+    is_self: false
+  - name: S. Burke-Spolaor
+    is_self: false
+  - name: S. J. Chamberlin
+    is_self: false
+  - name: S. Chatterjee
+    is_self: false
+  - name: B. Christy
+    is_self: false
+  - name: J. M. Cordes
+    is_self: false
+  - name: N. J. Cornish
+    is_self: false
+  - name: P. B. Demorest
+    is_self: false
+  - name: X. Deng
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2015
+  month: 9
+  sort_key: 2015-09-2015ApJ...810..150A
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 810, 150 (2015)
+  doi: 10.1088/0004-637X/810/2/150
+  doi_url: https://doi.org/10.1088/0004-637X/810/2/150
+  arxiv_url: https://arxiv.org/abs/1501.05343
+  ads_url: https://ui.adsabs.harvard.edu/abs/2015ApJ...810..150A
+- id: 2015MNRAS.449.1650Z
+  title: Detection and localization of single-source gravitational waves with pulsar timing arrays
+  authors:
+  - name: X.-J. Zhu
+    is_self: false
+  - name: L. Wen
+    is_self: false
+  - name: G. Hobbs
+    is_self: false
+  - name: Y. Zhang
+    is_self: false
+  - name: Y. Wang
+    is_self: false
+  - name: D. R. Madison
+    is_self: false
+  - name: R. N. Manchester
+    is_self: false
+  - name: M. Kerr
+    is_self: false
+  - name: P. A. Rosado
+    is_self: false
+  - name: J.-B. Wang
+    is_self: false
+  year: 2015
+  month: 5
+  sort_key: 2015-05-2015MNRAS.449.1650Z
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Monthly Notices of the Royal Astronomical Society
+  citation: Monthly Notices of the Royal Astronomical Society, 449, 1650-1663 (2015)
+  doi: 10.1093/mnras/stv381
+  doi_url: https://doi.org/10.1093/mnras/stv381
+  arxiv_url: https://arxiv.org/abs/1502.06001
+  ads_url: https://ui.adsabs.harvard.edu/abs/2015MNRAS.449.1650Z
+- id: 2015JPhCS.610a2019W
+  title: Noise in pulsar timing arrays
+  authors:
+  - name: Yan Wang
+    is_self: true
+  year: 2015
+  month: 5
+  sort_key: 2015-05-2015JPhCS.610a2019W
+  type: conference
+  type_label: Conference paper
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: Journal of Physics Conference Series
+  citation: Journal of Physics Conference Series, 610, 012019 (2015)
+  doi: 10.1088/1742-6596/610/1/012019
+  doi_url: https://doi.org/10.1088/1742-6596/610/1/012019
+  arxiv_url: https://arxiv.org/abs/1505.00402
+  ads_url: https://ui.adsabs.harvard.edu/abs/2015JPhCS.610a2019W
+- id: 2014ApJ...795...96W
+  title: A Coherent Method for the Detection and Parameter Estimation of Continuous Gravitational Wave Signals Using
+    a Pulsar Timing Array
+  authors:
+  - name: Yan Wang
+    is_self: true
+  - name: Soumya D. Mohanty
+    is_self: false
+  - name: Fredrick A. Jenet
+    is_self: false
+  year: 2014
+  month: 11
+  sort_key: 2014-11-2014ApJ...795...96W
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 795, 96 (2014)
+  doi: 10.1088/0004-637X/795/1/96
+  doi_url: https://doi.org/10.1088/0004-637X/795/1/96
+  arxiv_url: https://arxiv.org/abs/1406.5496
+  ads_url: https://ui.adsabs.harvard.edu/abs/2014ApJ...795...96W
+- id: 2014ApJ...794..141A
+  title: 'Gravitational Waves from Individual Supermassive Black Hole Binaries in Circular Orbits: Limits from the
+    North American Nanohertz Observatory for Gravitational Waves'
+  authors:
+  - name: Z. Arzoumanian
+    is_self: false
+  - name: A. Brazier
+    is_self: false
+  - name: S. Burke-Spolaor
+    is_self: false
+  - name: S. J. Chamberlin
+    is_self: false
+  - name: S. Chatterjee
+    is_self: false
+  - name: J. M. Cordes
+    is_self: false
+  - name: P. B. Demorest
+    is_self: false
+  - name: X. Deng
+    is_self: false
+  - name: T. Dolch
+    is_self: false
+  - name: J. A. Ellis
+    is_self: false
+  - name: et al.
+    is_self: false
+  year: 2014
+  month: 10
+  sort_key: 2014-10-2014ApJ...794..141A
+  type: journal
+  type_label: Journal article
+  topic: pta
+  topic_label: PTA Data Analysis
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 794, 141 (2014)
+  doi: 10.1088/0004-637X/794/2/141
+  doi_url: https://doi.org/10.1088/0004-637X/794/2/141
+  arxiv_url: https://arxiv.org/abs/1404.1267
+  ads_url: https://ui.adsabs.harvard.edu/abs/2014ApJ...794..141A
+- id: 2012ApJ...744..186W
+  title: 'Strong Field Effects on Emission Line Profiles: Kerr Black Holes and Warped Accretion Disks'
+  authors:
+  - name: Yan Wang
+    is_self: true
+  - name: Xiang-Dong Li
+    is_self: false
+  year: 2012
+  month: 1
+  sort_key: 2012-01-2012ApJ...744..186W
+  type: journal
+  type_label: Journal article
+  topic: relativity
+  topic_label: Relativistic Astrophysics and Gravity
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 744, 186 (2012)
+  doi: 10.1088/0004-637X/744/2/186
+  doi_url: https://doi.org/10.1088/0004-637X/744/2/186
+  arxiv_url: https://arxiv.org/abs/1110.4997
+  ads_url: https://ui.adsabs.harvard.edu/abs/2012ApJ...744..186W
+- id: 2009ApJ...705.1252W
+  title: 'Strong Field Effects on Pulsar Arrival Times: General Orientations'
+  authors:
+  - name: Yan Wang
+    is_self: true
+  - name: Teviet Creighton
+    is_self: false
+  - name: Richard H. Price
+    is_self: false
+  - name: Frederick A. Jenet
+    is_self: false
+  year: 2009
+  month: 11
+  sort_key: 2009-11-2009ApJ...705.1252W
+  type: journal
+  type_label: Journal article
+  topic: relativity
+  topic_label: Relativistic Astrophysics and Gravity
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 705, 1252-1259 (2009)
+  doi: 10.1088/0004-637X/705/2/1252
+  doi_url: https://doi.org/10.1088/0004-637X/705/2/1252
+  arxiv_url: https://arxiv.org/abs/0909.2709
+  ads_url: https://ui.adsabs.harvard.edu/abs/2009ApJ...705.1252W
+- id: 2009ApJ...697..237W
+  title: 'Strong Field Effects on Pulsar Arrival Times: Circular Orbits and Equatorial Beams'
+  authors:
+  - name: Yan Wang
+    is_self: true
+  - name: Frederick A. Jenet
+    is_self: false
+  - name: Teviet Creighton
+    is_self: false
+  - name: Richard H. Price
+    is_self: false
+  year: 2009
+  month: 5
+  sort_key: 2009-05-2009ApJ...697..237W
+  type: journal
+  type_label: Journal article
+  topic: relativity
+  topic_label: Relativistic Astrophysics and Gravity
+  venue: The Astrophysical Journal
+  citation: The Astrophysical Journal, 697, 237-246 (2009)
+  doi: 10.1088/0004-637X/697/1/237
+  doi_url: https://doi.org/10.1088/0004-637X/697/1/237
+  arxiv_url: https://arxiv.org/abs/0812.2302
+  ads_url: https://ui.adsabs.harvard.edu/abs/2009ApJ...697..237W
+- id: 2008AmJPh..76..930P
+  title: The transverse traceless gauge and quadrupole sources
+  authors:
+  - name: Richard H. Price
+    is_self: false
+  - name: Yan Wang
+    is_self: true
+  year: 2008
+  month: 10
+  sort_key: 2008-10-2008AmJPh..76..930P
+  type: journal
+  type_label: Journal article
+  topic: relativity
+  topic_label: Relativistic Astrophysics and Gravity
+  venue: American Journal of Physics
+  citation: American Journal of Physics, 76, 930-933 (2008)
+  doi: 10.1119/1.2937908
+  doi_url: https://doi.org/10.1119/1.2937908
+  arxiv_url: ''
+  ads_url: https://ui.adsabs.harvard.edu/abs/2008AmJPh..76..930P

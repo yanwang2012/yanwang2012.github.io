@@ -1,0 +1,18 @@
+{% assign publication = include.publication %}
+<article class="publication-entry" id="publication-{{ publication.id | slugify }}" data-year="{{ publication.year }}" data-topic="{{ publication.topic | escape }}" data-type="{{ publication.type }}">
+  <h3 class="publication-title">
+    {% if publication.doi_url != empty %}
+      <a href="{{ publication.doi_url | escape }}">{{ publication.title | escape }}</a>
+    {% else %}{{ publication.title | escape }}{% endif %}
+  </h3>
+  <p class="publication-authors">{% for author in publication.authors %}{% if author.is_self %}<strong>{{ author.name | escape }}</strong>{% else %}{{ author.name | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+  <p class="publication-citation">{{ publication.citation | escape }}{% unless publication.type == "journal" %} <span class="publication-kind">{{ publication.type_label }}</span>{% endunless %}</p>
+  <div class="publication-meta">
+    <span class="publication-topic">{{ publication.topic_label | escape }}</span>
+    <div class="publication-links" aria-label="Links for {{ publication.title | escape }}">
+      {% if publication.doi_url != empty %}<a href="{{ publication.doi_url | escape }}">DOI</a>{% endif %}
+      {% if publication.arxiv_url != empty %}<a href="{{ publication.arxiv_url | escape }}">arXiv</a>{% endif %}
+      {% if publication.ads_url != empty %}<a href="{{ publication.ads_url | escape }}">ADS</a>{% endif %}
+    </div>
+  </div>
+</article>

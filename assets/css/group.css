@@ -1,0 +1,30 @@
+.group-page {
+  --group-border: var(--global-border-color, #dedede);
+  --group-muted: #5e6367;
+  --group-link: #137f98;
+  letter-spacing: 0;
+}
+
+html[data-theme="dark"] .group-page { --group-muted: #d1d4d7; --group-link: #73cddd; }
+.group-page a { color: var(--group-link); }
+.group-intro { margin: 0 0 20px; font-size: 0.9em; line-height: 1.65; }
+.group-index { display: flex; flex-wrap: wrap; gap: 8px 20px; margin: 0 0 28px; padding: 12px 0; border-top: 1px solid var(--group-border); border-bottom: 1px solid var(--group-border); font-size: 0.8em; }
+.group-page a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+.group-page section > h2 { margin: 32px 0 16px; padding-bottom: 9px; border-bottom: 1px solid var(--group-border); font-size: 1.15em; line-height: 1.5; overflow-wrap: anywhere; scroll-margin-top: 90px; }
+.group-subheading { margin: 24px 0 4px; font-size: 1em; line-height: 1.5; }
+.group-count { color: var(--group-muted); font-weight: normal; font-size: 0.85em; }
+.group-page .group-members { list-style: none; padding: 0; margin: 0; }
+.group-page .group-member { margin: 0; padding: 17px 0; border-bottom: 1px solid var(--group-border); }
+.group-member:last-child { border-bottom: 0; }
+.group-member-header { display: flex; justify-content: space-between; align-items: baseline; gap: 6px 20px; flex-wrap: wrap; }
+.group-page .group-member-name { margin: 0; padding: 0; border: 0; font-size: 0.95em; font-weight: 600; line-height: 1.5; overflow-wrap: anywhere; }
+.group-member-chinese { white-space: nowrap; }
+.group-page .group-member-timeline { margin: 0; font-size: 0.78em; line-height: 1.6; color: var(--group-muted); }
+.group-page .group-member-research, .group-page .group-member-role, .group-page .group-member-affiliation { margin: 5px 0 0; font-size: 0.8em; line-height: 1.6; overflow-wrap: anywhere; }
+.group-page .group-member-note { margin: 6px 0 0; font-size: 0.78em; line-height: 1.65; color: var(--group-muted); overflow-wrap: anywhere; }
+
+@media (max-width: 520px) {
+  .group-member-header { display: block; }
+  .group-page .group-member-timeline { margin-top: 3px; }
+  .group-page section > h2 { font-size: 1.05em; }
+}

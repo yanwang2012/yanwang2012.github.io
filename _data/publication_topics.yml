@@ -1,0 +1,10 @@
+- id: pta
+  label: PTA Data Analysis
+- id: space
+  label: Space-Based Gravitational-Wave Detection
+- id: gw-astrophysics
+  label: Gravitational-Wave Astrophysics
+- id: relativity
+  label: Relativistic Astrophysics and Gravity
+- id: other
+  label: Other Astrophysics

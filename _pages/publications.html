@@ -4,35 +4,58 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+{% assign publications = site.data.publications | sort: "sort_key" | reverse %}
+{% assign journals = publications | where: "type", "journal" %}
+{% assign preprints = publications | where: "type", "preprint" %}
+{% assign conferences = publications | where: "type", "conference" %}
+<link rel="stylesheet" href="{{ '/assets/css/publications.css' | relative_url }}">
 
-Selected publications and representative research outputs from Prof. Yan Wang
-and the Gravitational-Wave Physics Group will be listed here.
+<div class="publications" id="publications">
+  <p class="publications-latest">Latest publications: <a href="{{ site.data.publication_source.url | escape }}">{{ site.data.publication_source.label | escape }} <i class="fas fa-up-right-from-square" aria-hidden="true"></i></a></p>
+  <div class="publications-summary">
+    <p>{{ publications.size }} records: {{ journals.size }} journal articles, {{ preprints.size }} preprints, {{ conferences.size }} conference papers.</p>
+    <a href="{{ '/files/publications.bib' | relative_url }}" download>BibTeX <i class="fas fa-download" aria-hidden="true"></i></a>
+  </div>
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+  <div class="publications-controls" hidden>
+    <div class="publications-view" role="group" aria-label="Group publications">
+      <button type="button" data-group="year" aria-pressed="true">By year</button>
+      <button type="button" data-group="topic" aria-pressed="false">By research area</button>
+    </div>
+    <div class="publications-filters">
+      <label class="publications-search-label" for="publication-search">
+        <span>Search</span>
+        <input type="search" id="publication-search" placeholder="Title, author, or keyword" autocomplete="off">
+      </label>
+      <label for="publication-type">
+        <span>Publication type</span>
+        <select id="publication-type">
+          <option value="all">All types</option>
+          <option value="journal">Journal articles</option>
+          <option value="preprint">Preprints</option>
+          <option value="conference">Conference papers</option>
+        </select>
+      </label>
+    </div>
+    <p class="publications-result-count" id="publication-result-count" role="status" aria-live="polite" aria-atomic="true">{{ publications.size }} records</p>
+  </div>
 
-{% include base_path %}
+  <nav class="publications-index" id="publication-index" aria-label="Publication years">
+    {% assign years = publications | group_by: "year" %}
+    {% for year in years %}<a href="#publications-year-{{ year.name }}">{{ year.name }}</a>{% endfor %}
+  </nav>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
+  <div id="publication-groups">
+    {% for year in years %}
+      <section class="publication-group" aria-labelledby="publications-year-{{ year.name }}">
+        <h2 id="publications-year-{{ year.name }}" tabindex="-1">{{ year.name }} <span class="publication-group-count">({{ year.items.size }})</span></h2>
+        {% for publication in year.items %}
+          {% include publication-entry.html publication=publication %}
+        {% endfor %}
+      </section>
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
+  </div>
+  <p class="publications-empty" id="publication-empty" hidden>No matching publications.</p>
+</div>
+<script type="application/json" id="publication-topics">{{ site.data.publication_topics | jsonify }}</script>
+<script src="{{ '/assets/js/publications.js' | relative_url }}" defer></script>

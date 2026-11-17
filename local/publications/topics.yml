@@ -1,0 +1,72 @@
+topics:
+  - id: pta
+    label: PTA Data Analysis
+  - id: space
+    label: Space-Based Gravitational-Wave Detection
+  - id: gw-astrophysics
+    label: Gravitational-Wave Astrophysics
+  - id: relativity
+    label: Relativistic Astrophysics and Gravity
+  - id: other
+    label: Other Astrophysics
+
+assignments:
+  2026PhRvD.114b3005W: space
+  2026arXiv260725349G: space
+  2026arXiv260607330T: pta
+  2026ChPhB..35e0401H: space
+  2026PhRvD.113j3005Q: pta
+  2026SSPMA..5619503Y: pta
+  2026SSPMA..5619506Z: pta
+  2025CQGra..42q3001L: space
+  2025Univ...11..268Q: pta
+  2025RPPh...88e6901L: space
+  2025PhRvD.111h3030T: pta
+  2025PhRvD.111d3026F: space
+  2025PhRvD.111b3053F: gw-astrophysics
+  2025MNRAS.536.2770J: gw-astrophysics
+  2024PhRvD.109d3033F: gw-astrophysics
+  2023PhRvD.108j3030S: space
+  2023PhRvD.108f3035F: gw-astrophysics
+  2023PhRvD.108b4006L: relativity
+  2023PhRvD.107j3035F: gw-astrophysics
+  2022PhRvD.106b3016Q: pta
+  2022ApJ...929..168C: pta
+  2022ApJ...929..175S: other
+  2022arXiv220400749C: pta
+  2021ApJ...922..228S: pta
+  2021SCPMA..6420401B: relativity
+  2021ApJ...914..139S: space
+  2021PhRvD.103j3026Z: space
+  2021PTEP.2021eA107M: space
+  2021ApJ...907L..43W: pta
+  2020PhRvD.102l4035L: relativity
+  2020CQGra..37r5017S: space
+  2020MNRAS.491.5951H: pta
+  2020PASA...37....2W: other
+  2019PhRvD.100d3003W: space
+  2019PhRvD..99l3002F: space
+  2019IJMPD..2850121Y: space
+  2018CQGra..35i5008H: space
+  2018JPhCS.957a2003W: pta
+  2017JPhCS.840a2058W: pta
+  2017PhRvL.118o1104W: pta
+  2017RAA....17...19W: pta
+  2016MNRAS.461.1317Z: pta
+  2016MNRAS.458.1267V: pta
+  2016MNRAS.458.2161L: pta
+  2016ApJ...821...13A: pta
+  2016CQGra..33c5010L: space
+  2016gac..conf...44L: space
+  2016gac..conf..360M: space
+  2015ApJ...815..125W: pta
+  2015ApJ...813...65N: pta
+  2015ApJ...810..150A: pta
+  2015MNRAS.449.1650Z: pta
+  2015JPhCS.610a2019W: pta
+  2014ApJ...795...96W: pta
+  2014ApJ...794..141A: pta
+  2012ApJ...744..186W: relativity
+  2009ApJ...705.1252W: relativity
+  2009ApJ...697..237W: relativity
+  2008AmJPh..76..930P: relativity

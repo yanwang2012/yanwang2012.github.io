@@ -2,8 +2,11 @@
 _site/
 .sass-cache/
 
-# Ignore the directory for local files during development
-local/
+# Ignore local development files, but keep the Publications maintenance tools.
+local/*
+!local/publications/
+local/publications/.venv/
+local/publications/__pycache__/
 
 # Ignore the Gemfile that is generated
 Gemfile.lock

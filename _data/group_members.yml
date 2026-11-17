@@ -1,0 +1,105 @@
+# 已审核的公开信息。维护成员时编辑本文件，列表顺序即网页显示顺序。
+# 入学与转博时间为September，毕业时间为June；联合培养使用实际月份。
+# homepage为个人主页；affiliation_url为工作单位官网。不要加入私人信息或内部审核批注。
+phd_students:
+  - name: Yao Fu
+    chinese_name: 付瑶
+    timeline: PhD studies since September 2022
+    research_area: Space-Based Gravitational-Wave Data Analysis
+    joint_training: University of Western Australia, November 2024 to November 2025
+  - name: Xuan Tao
+    chinese_name: 陶轩
+    timeline: PhD studies since September 2023
+    research_area: PTA Data Analysis
+    joint_training: AEI Hannover, August 2025 to March 2027 (scheduled completion)
+  - name: Fanyun He
+    chinese_name: 和凡云
+    timeline: PhD studies since September 2024
+    research_area: Gravitational-Wave Astrophysics
+  - name: Haokun Wu
+    chinese_name: 吴昊坤
+    timeline: PhD studies since September 2024
+    research_area: Space-Based Gravitational-Wave Data Analysis
+  - name: Hanyu You
+    chinese_name: 游涵宇
+    timeline: PhD studies since September 2025
+    research_area: Gravitational-Wave Astrophysics
+  - name: Ruo-Yu Guan
+    chinese_name: 关若禹
+    timeline: PhD studies since September 2025
+    research_area: Gravitational-Wave Astrophysics
+    homepage: https://ruoyuguan.github.io/
+  - name: Haocheng Hu
+    chinese_name: 胡灏成
+    timeline: PhD studies since September 2026
+    research_area: Space-Based Gravitational-Wave Data Analysis
+
+masters_students:
+  - name: Jiyu Liu
+    chinese_name: 刘济宇
+    timeline: Master's studies since September 2025
+    research_area: PTA Data Analysis
+  - name: Jing Zhou
+    chinese_name: 周靖
+    timeline: Master's studies since September 2026
+    research_area: Gravitational-Wave Astrophysics
+
+# 毕业研究生暂不列去向。已获本组硕士与博士学位的成员合并显示。
+graduate_alumni:
+  - name: Yiqian Qian
+    chinese_name: 钱以骞
+    timeline: PhD, June 2026
+    research_area: PTA Data Analysis; Space-Based Gravitational-Wave Data Analysis
+  - name: Hang Yang
+    chinese_name: 杨航
+    timeline: MSc, June 2026
+    research_area: Gravitational-Wave Astrophysics
+    note: Jointly supervised by Yan Wang and Daiqin Su.
+  - name: Hong-Ming Jin
+    chinese_name: 靳鸿鸣
+    timeline: PhD, June 2025
+    research_area: Gravitational-Wave Astrophysics
+  - name: Tianrui Liang
+    chinese_name: 梁天瑞
+    timeline: MSc, June 2025
+    research_area: Pulsar Astrophysics
+  - name: Wen-Fan Feng
+    chinese_name: 冯文凡
+    timeline: PhD, June 2024; MSc, June 2018
+    research_area: Gravitational-Wave Astrophysics
+  - name: Mingyue Zhou
+    chinese_name: 周明越
+    timeline: PhD, June 2022
+    research_area: Space-Based Gravitational-Wave Data Analysis
+  - name: Xinchun Hu
+    chinese_name: 胡新春
+    timeline: PhD, June 2021
+    research_area: Space-Based Gravitational-Wave Data Analysis
+  - name: Dongdong Zhu
+    chinese_name: 祝冬冬
+    timeline: MSc, June 2021
+    research_area: Space-Based Gravitational-Wave Data Analysis
+  - name: Xiaohong Li
+    chinese_name: 李小红
+    timeline: MSc, June 2018
+    research_area: Space-Based Gravitational-Wave Data Analysis
+
+former_postdocs:
+  - name: Wei Su
+    chinese_name: 苏威
+    affiliation: Sun Yat-sen University
+    affiliation_url: https://www.sysu.edu.cn/sysuen/
+  - name: Tan Liu
+    chinese_name: 刘谈
+    affiliation: Yangtze University
+    affiliation_url: https://english.yangtzeu.edu.cn/
+  - name: Jiewen Chen
+    chinese_name: 陈洁文
+    affiliation: National Time Service Center, Chinese Academy of Sciences
+    affiliation_url: https://ntsc.cas.cn/
+
+former_members:
+  - name: Zihao Chen
+    chinese_name: 陈子豪
+    role: Former jointly trained master's student, Xinjiang Astronomical Observatory
+    research_area: PTA Data Analysis
